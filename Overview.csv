@@ -1,0 +1,866 @@
+Manufacturer,Model,SystemID,Security Level
+ACER,H6800a,20424,L1
+ActiveVideo,Stitcher Stitcher.GX,6659,L3
+ActiveVideo,Stitcher Stitcher:GX,6482,L3
+ActiveVideo,Stitcher Stitcher:GX,6483,L3
+Activevideo,Stitcher Stitcher:GX,6497,L3
+ActiveVideo,Stitcher Stitcher:GX,6500,L3
+ActiveVideo,Stitcher Stitcher:GX,7280,L3
+ActiveVideo,Stitcher Stitcher:GX,7987,L3
+ActiveVideo,Stitcher Stitcher:GX,8208,L3
+ActiveVideo,Stitcher,9004,L3
+Activevideo,Stitcher.Stitcher:GX,6645,L3
+ADB,ADB2675STWFV,15717,L1
+AMAZON,AEORK,7404,L1
+Amazon,AFTLE002,11928,L1
+Amazon,Alexa-x86_64,18220,L3
+Amazon,Anna-Prod,20833,L1
+Amazon,Athena-Prod,18537,L1
+Amazon,Burgundy-Prod,19216,L1
+Amazon,Checkers-Prod2,16413,L1
+Amazon,Cronos-Prod,20300,L1
+Amazon,Crown-Prod2,16385,L1
+Amazon,Duckie-Prod,16306,L1
+Amazon,Dwight-Prod,16979,L1
+Amazon,Echo,18012,L3
+Amazon,Echo-aarch64,18221,L3
+Amazon,Echo-arm,18028,L3
+Amazon,Echo-x86,18029,L3
+Amazon,Echo2-aarch64,18419,L3
+Amazon,Echo2-arm,18418,L3
+Amazon,Echo2-x86,18420,L3
+Amazon,Echo2-x86_64,18421,L3
+Amazon,Echo3-aarch64,18423,L3
+Amazon,Echo3-arm,18422,L3
+Amazon,Echo3-x86,18424,L3
+Amazon,Echo3-x86_64,18426,L3
+Amazon,Echo4-arm,19376,L3
+Amazon,Echo5-arm,19410,L3
+Amazon,Echo6-arm,19411,L3
+Amazon,Echo7-arm,19412,L3
+Amazon,Fort-Prod,18843,L1
+Amazon,Glenn-Prod,21860,L1
+Amazon,Hailey-Prod,19470,L1
+Amazon,HaileyPlus-Prod,21483,L1
+Amazon,Hector-Prod,20220,L1
+Amazon,iOS,11274,L3
+Amazon,Juliana-Prod,21481,L1
+AMAZON,k26_p1,6517,L1
+Amazon,Kara-Prod,20778,L1
+Amazon,Karnak-Prod2,16510,L1
+Amazon,KFAUWI,6898,L1
+Amazon,KFGIWI,6852,L1
+Amazon,KFMUWI,9747,L1
+Amazon,KFSLWI,6121,L1
+AMAZON,KFTBWI,6332,L1
+Amazon,LagunaB-Prod,21693,L1
+Amazon,LagunaF-Prod,20573,L1
+Amazon,Mac,8892,L3
+Amazon,Mantis-Prod2,17461,L1
+Amazon,MontanaH-Prod,21479,L1
+Amazon,Onyx-Prod,16785,L1
+Amazon,OSX,13064,L3
+Amazon,Peach-Prod,21859,L1
+Amazon,Primrose-Prod,19248,L1
+Amazon,Rancho-Prod,20223,L1
+Amazon,Raven-Prod,16914,L1
+Amazon,Sheldon-Prod,17689,L1
+Amazon,SheldonPlus-Prod,17706,L1
+Amazon,Skipper-Prod,18883,L1
+Amazon,Smita-Prod,18316,L1
+Amazon,Sophia2-Prod,17976,L1
+Amazon,Steffi-Prod,17574,L1
+Amazon,Tank-Prod2,16384,L1
+Amazon,Theia-Prod,17814,L1
+Amazon,Trona-Prod,18570,L1
+Amazon,TronaPlus-Prod,18717,L1
+Amazon,TronaPlusS-Prod,19530,L1
+Amazon,TronaS-Prod,19528,L1
+Amazon,Vesta-Prod,18043,L1
+Amazon,Windows,13063,L3
+Amazon,Windows,8891,L3
+Amazon,Winston-Prod,18444,L1
+Aminocom TV,Amigo7x,15799,L1
+Aminocom TV,Amigo7xGM,17640,L1
+Aminocom TV,Amigo7xJDS,17495,L1
+Aminocom TV,Kamai7,10802,L1
+AMLogic,franklin,11366,L1
+AMLogic,newton,15178,L1
+Antel,DIW387_UHD_Antel,8287,L1
+Arcelik TV,sinchon,19615,L1
+Arris Group TV,vip5242a,7755,L1
+Arris,DCX960,7261,L1
+Arris,DCX960,7598,L1
+Arris,VIP5662W,7376,L1
+Askey TV,adt3,16251,L1
+Askey TV,sti6130d350,18902,L1
+Askey TV,sti6130d353,19564,L1
+Askey TV,sti6200d101,17657,L1
+Askey TV,sti6220d315,18946,L1
+Asus,ASUS_I002D,17943,L1
+Asus,ASUS_I003_1,17594,L1
+Asus,ASUS_I005_1,19628,L1
+BADASYSTEM,MiniU5,10830,L3
+BADASYSTEM,U5OTT,7531,L3
+BADASYSTEM,U5PVR,7683,L3
+Bestone - WindRiver,Bphone_B86,17726,L1
+Blackshark - FIH Foxconn,klein,16985,L1
+Blackshark - FIH Foxconn,mobius,16987,L1
+Blackshark - FIH Foxconn,penrose,21102,L1
+bluebank,JHS D200,14168,L1
+BlueBank,JHSD200,17609,L1
+BQ (RU) - Pegatron,BQ-5046L,19022,L1
+British Telecom,RTIW387_BT_v2_AT,11719,L1
+Bullitt Group - FIH Foxconn,bathena,20859,L1
+Bullitt Group - FIH Foxconn,S22FLIP,21441,L1
+Bullitt Group - FIH Foxconn,S62,17745,L1
+Caron - Pegatron,KAZ-N20,18144,L1
+Changhong TV - Harman,CHOTT0102,13482,L1
+Changhong TV - Harman,GIU3A00,17615,L1
+Changhong TV - Harman,GTV,13275,L1
+Changhong TV,hapjeong,17935,L1
+Changhong TV,samseong,13182,L1
+Changhong TV,sindorim,15531,L1
+Charter,Hydra,15497,L1
+Charter,Spectrum101,15495,L1
+Charter,Spectrum110,15496,L1
+Commscope,vip5002w,16249,L1
+Coolpad,1821,10012,L1
+Coolpad,1901,19041,L1
+Coolpad,apollo,16355,L1
+Coolpad,CP3667AT,18413,L1
+Coolpad,CP3669AS,19051,L1
+Coosea - WindRiver,ULTRAMINTT_Y5,17764,L1
+Coship TV,N9106H_B_Dialog,13515,L1
+CSI,MOD503,11506,L1
+CVTE,AML972,14152,L1
+CVTE,SMART_TV,10634,L1
+CVTE,SMART_TV,8215,L1
+Daimler,NTG7,16285,L3
+Datalogic - Pegatron,sx5,18070,L1
+Datalogic - Windriver,Q10A,21784,L1
+DMT TV,DMTS18SS,9608,L1
+Elink - WindRiver,G10,17545,L1
+Elink - WindRiver,WS107,17831,L1
+Enseo,HD3300UHD,15942,L1
+Entone,Aria600,6555,L1
+EXPRESS LUCK TECHNOLOGY LIMITED TV,tamachi,17483,L1
+EXPRESS LUCK TECHNOLOGY LIMITED TV,yeongdeungpo,14915,L1
+EXPRESS LUCK,43F2,15897,L1
+Facebook,Portal TV,13354,L1
+Facebook,Portal/Portal Mini,13985,L1
+FERGUSON,FERGUSON-FBOX,7857,L3
+Fonsview,FV600,20158,L1
+FORMULER,Formuler Z8,17718,L1
+Foxconn International Holdings Limited,g03k,5650,L3
+Foxconn International Holdings Limited,MC2_CN,5893,L3
+Foxconn TV,BFX-AT100,13292,L1
+Freebox,F-HD06,14747,L3
+fujitsu - Pegatron,arrowsM05,15695,L1
+fujitsu - Pegatron,AW01,20593,L1
+fujitsu - Pegatron,BZ01,15581,L1
+fujitsu - Pegatron,F41A,17340,L1
+fujitsu - Pegatron,F42A,17732,L1
+fujitsu - Pegatron,F51A,16858,L1
+fujitsu - Pegatron,F52A,18562,L1
+fujitsu - Pegatron,FMP179R,17884,L1
+fujitsu - Pegatron,FMP181L,19544,L1
+fujitsu - Pegatron,M359,14585,L1
+fujitsu - Pegatron,YM901FJ,15068,L1
+FUJITSU,FUJITSU_PEGATRON_NVIDIA_TABLET_2012,132,L3
+Funai TV,cocina,11636,L1
+Funai TV,freesia,11319,L3
+Funai TV,freesia,20816,L1
+Funai TV,guui,18400,L1
+Funai TV,hino,16521,L1
+Funai TV,peach,15665,L1
+Funai TV,sindap,15432,L1
+Generic Field Provisioning 3.0,Android ARM,8158,L3
+Generic Field Provisioning 3.0,Android ARM64,8159,L3
+Generic Field Provisioning 3.0,Android MIPS,8160,L3
+Generic Field Provisioning 3.0,Android MIPS64,8161,L3
+Generic Field Provisioning 3.0,Android x86,8162,L3
+Generic Field Provisioning 3.0,Android x86_64,8163,L3
+Generic Field Provisioning,Android KLP ARM,4445,L3
+Generic Field Provisioning,Android KLP ARM64,7283,L3
+Generic Field Provisioning,Android KLP MIPS,4465,L3
+Generic Field Provisioning,Android KLP MIPS64,7285,L3
+Generic Field Provisioning,Android KLP x86,4464,L3
+Generic Field Provisioning,Android KLP x86_64,7284,L3
+Getac Technology - Pegatron,zx70g2,15261,L1
+Google TV,sabrina,14558,L1
+Google TV,sabrina,17722,L1
+Google TV,sabrina,21670,L1
+Google,bonito,17606,L1
+Google,bramble,17650,L1
+Google,CDM_Test_PROV2,7912,L1
+Google,ChromeCDM-ChromeOS-ARM-5,20298,L3
+Google,ChromeCDM-CrOS-5,20294,L3
+Google,ChromeCDM-CrOS-ARM-4,20059,L3
+Google,ChromeCDM-CrOS-ARM-6,21204,L3
+Google,ChromeCDM-CrOS-x86-4,20058,L3
+Google,ChromeCDM-CrOS-x86-6,21203,L3
+Google,ChromeCDM-Linux-6,21202,L3
+Google,ChromeCDM-Linux-x64-4,20121,L3
+Google,ChromeCDM-Linux-x86-4,20060,L3
+Google,ChromeCDM-Linux-x86-5,20297,L3
+Google,ChromeCDM-Mac-6,21201,L3
+Google,ChromeCDM-Mac-ARM-4,20034,L3
+Google,ChromeCDM-Mac-x64-4,20056,L3
+Google,ChromeCDM-Mac-x64-5,20296,L3
+Google,ChromeCDM-Win-x86-4,20057,L3
+Google,ChromeCDM-Win-x86-5,20295,L3
+Google,ChromeCDM-Windows-6,21200,L3
+Google,ChromeCDM-Windows-x64-4,20122,L3
+Google,coral,13674,L1
+Google,CrOS-10,21622,L1
+Google,CrOS-11,21808,L1
+Google,CrOS-12,21866,L1
+Google,CrOS-13,20661,L1
+Google,CrOS-14,20657,L1
+Google,CrOS-15,20653,L1
+Google,CrOS-16,21623,L1
+Google,CrOS-6,20898,L1
+Google,CrOS-7,20500,L1
+Google,CrOS-7,20649,L1
+Google,CrOS-8,20665,L1
+Google,CrOS-9,20645,L1
+Google,flame,13676,L1
+Google,Newman,10279,L1
+Google,redfin,17660,L1
+Google,Reference Device,4121,L3
+Google,sunfish,17437,L1
+Guangzhou Shiyuan Electronic Technology Company Limited,MT6681,20832,L1
+Haier TV,hanyang,13392,L1
+Haier TV,hongik,13765,L1
+Haier TV,nippori,13764,L1
+Haier TV,uguisudani,13770,L1
+HiMedia TV,A151,17209,L1
+HiMedia TV,A155,17210,L1
+HiMedia TV,YS-CK0001,16926,L1
+Hisense TV,huangshan,19279,L1
+Hisense TV,laohushan,16435,L1
+Hisense TV,SmartTV 8K FFM,18213,L1
+Hisense TV,xiaoyushan,12683,L1
+Hisense,HE55A7000EUWTS,11233,L1
+Hisense,IP950_Operator_FPT,17918,L1
+Hisense,L810,16295,L1
+Hisense,MTK9652,19157,L1
+Hisense,NOVA72685,20327,L1
+HKC TV,gangbyeon,13523,L1
+HKC TV,kanda,13522,L1
+HKC TV,osaki,14872,L1
+HKC TV,ueno,13455,L1
+HMD Global,BGT,19453,L1
+HMD Global,BGT_sprout,18036,L1
+HMD Global,CAP,19467,L1
+HMD Global,CAP_sprout,16695,L1
+HMD Global,DDV_sprout,13934,L1
+HMD Global,DDVA_sprout,14975,L1
+HMD Global,DPL_VZW,13009,L1
+HMD Global,DRD,19759,L1
+HMD Global,DRD_sprout,19761,L1
+HMD Global,DRDA_sprout,19760,L1
+HMD Global,DRS,19488,L1
+HMD Global,DRS_sprout,18706,L1
+HMD Global,DRSA_sprout,19485,L1
+HMD Global,DRX,16434,L1
+HMD Global,RAV_VZW,18181,L1
+HMD Global,SLD_sprout,13935,L1
+HMD Global,SLDA_sprout,14976,L1
+HMD Global,WVR_sprout,18303,L1
+HP - Pegatron,Pioneer,18505,L1
+HTC,htc_bymdugl,17767,L1
+HTC,htc_flhdugl,17895,L1
+HTC,htc_srcdugl,18589,L1
+HTC,htc_thudugl,19494,L1
+HUAWEI,AGR-L03,17950,L1
+HUAWEI,AGS3-W09,17949,L1
+HUAWEI,ANA-NX9,17651,L1
+HUAWEI,ANG-AN00,19002,L1
+HUAWEI,BAH3-AL10,17951,L1
+HUAWEI,BAH3-AN10,18068,L1
+HUAWEI,BMH-AN10,17974,L1
+HUAWEI,BRQ-AN00,17776,L1
+HUAWEI,BZC-W00,17964,L1
+HUAWEI,CDY-NX9A,17892,L1
+HUAWEI,EBG-AN10,17775,L1
+HUAWEI,ELS-N39,17771,L1
+HUAWEI,ELS-NX9,17652,L1
+HUAWEI,JEF-NX9,17973,L1
+HUAWEI,JER-AN10,18490,L1
+HUAWEI,KANT-329,19214,L1
+HUAWEI,KRJ-W09,18069,L1
+HUAWEI,LIO-AN00m,18670,L1
+HUAWEI,LIO-L29,17772,L1
+HUAWEI,MRX-AL19,17852,L1
+HUAWEI,NOH-NX9,17890,L1
+HUAWEI,NOP-NX9,17891,L1
+HUAWEI,OCE-NX9,17889,L1
+HUAWEI,SCMR-W09,17853,L1
+HUAWEI,TAH-N29m,17773,L1
+Huawei,TAS-AN00,17637,L1
+HUAWEI,TET-NX9,18294,L1
+HUAWEI,WGR-AN19,18705,L1
+Humanware - Windriver,rk3399_reveal16i_box,13704,L1
+Humax TV,tmau400,14445,L1
+Humax TV,XA402,16321,L1
+Humax,2008c-stb,17937,L1
+hybroad,H671T,17855,L1
+Hybroad,M681T,17854,L1
+INCAR - Unisoc,T7Q-4G,17439,L1
+Infomir SA TV - Harman,MAG500A,17977,L1
+Innopia TV,NVSH800H1,17999,L1
+Innopia TV,TBBTV01,18138,L1
+Inspur TV - Harman,BCM72604,20636,L1
+Intek TV - Harman,UHD_I56AD_TRV,13776,L1
+Intek TV,INTEKS19SS,14361,L1
+Intek TV,INTEKS20SI,18173,L1
+INTEK,UHD-I56AD,11392,L1
+iWaylink - FIH Foxconn,h31,16976,L1
+iWaylink - FIH Foxconn,h33,16268,L1
+JET OPTOELECTRONICS,36A.919.607.x,18295,L1
+Joyar - Windriver,100011885,18238,L1
+Joyar - Windriver,100011886,18203,L1
+Joyar - Windriver,C20,18523,L1
+Joyar - Windriver,LRNS10GIL0,21296,L1
+Joyar - Windriver,LRNS10RIL0,21298,L1
+Joyar - Windriver,LRNS10WIFI,21295,L1
+Joyar - Windriver,LRNS10WIL0,20775,L1
+Joyar - Windriver,muPAD_K10,21535,L1
+Joyar Group - Harman,neocore_E1_2_eea,14486,L1
+Kaon TV,IC1130,6955,L1
+Kaon TV,K1100UA,16781,L1
+Kaon TV,KSTB2019,11519,L1
+Kaon TV,KSTB2020,10173,L1
+Kaon TV,KSTB6130,13803,L1
+KaonMedia,BKO-AI700,7860,L1
+KaonMedia,KSTB2119,12482,L1
+KaonMedia,KSTB4002,8691,L3
+KaonMedia,KSTB6112,19298,L1
+Konka,MH794,7470,L1
+Kyocera Corporation,901KC,14046,L1
+Kyocera Corporation,E7110,18332,L1
+Kyocera Corporation,KC-T302DT,15153,L1
+Kyocera Corporation,KYG01,20237,L1
+Kyocera Corporation,KYV48,17668,L1
+Kyocera Corporation,S6-KC_sprout,15350,L1
+Kyocera Corporation,S8-KC_sprout,18979,L1
+Kyocera Corporation,SZJ202,13771,L1
+Lenovo Mobile,8705F,14794,L1
+Lenovo Mobile,8705N,14793,L1
+Lenovo Mobile,8705X,17498,L1
+Lenovo Mobile,d-42A,19952,L1
+Lenovo Mobile,J606F,19120,L1
+Lenovo Mobile,J606L,19122,L1
+Lenovo Mobile,J606N,21188,L1
+Lenovo Mobile,J706F,17834,L1
+Lenovo Mobile,J706L,17894,L1
+Lenovo Mobile,J706N,18132,L1
+Lenovo Mobile,K606F,20169,L1
+Lenovo Mobile,K910L,72,L1
+Lenovo Mobile,LAVIET11112K1,20304,L1
+Lenovo Mobile,LAVIET1111QHD1,20303,L1
+Lenovo Mobile,LAVIETabE10FHD1,16222,L1
+Lenovo Mobile,LAVIETabE10FHD2,17180,L1
+Lenovo Mobile,LAVIETabE7SD1,16095,L1
+Lenovo Mobile,moba,17538,L1
+Lenovo Mobile,TB-X505X,12995,L1
+Lenovo Mobile,X306F,17720,L1
+Lenovo Mobile,X306FA,18003,L1
+Lenovo Mobile,X306V,19869,L1
+Lenovo Mobile,X306X,17790,L1
+Lenovo Mobile,X306XA,18004,L1
+Lenovo Mobile,X606F,15957,L1
+Lenovo Mobile,X606FA,17235,L1
+Lenovo Mobile,X606M,15974,L1
+Lenovo Mobile,X606V,17247,L1
+Lenovo Mobile,X606X,15973,L1
+Lenovo Mobile,X606XA,17236,L1
+Lenovo Mobile,X616F,20146,L1
+Lenovo Mobile,X616M,20328,L1
+Lenovo Mobile,X705F,9075,L3
+Lenovo Mobile,X705L,9076,L3
+Lenovo Mobile,X705M,9077,L3
+Lenovo Mobile,YT-X705F,13558,L1
+Lenovo Mobile,YT-X705L,14209,L1
+Lenovo Mobile,YT-X705M,13556,L1
+Lenovo Mobile,YT-X705X,13557,L1
+lenovo,8053,8142,L1
+LG,ATSC,16692,L1
+LG,K6Lp,14570,L1
+LG,K7Lp,18495,L1
+LG,LM21U,18494,L1
+LG,O20,18496,L1
+LGE,acelm,18692,L1
+LGE,acexlm,18707,L1
+LGE,alphaamz,13548,L1
+LGE,caymanlm,17605,L1
+LGE,caymanslm,17942,L1
+LGE,flashsignaturelm,16161,L1
+LGE,L-41A,17765,L1
+LGE,L-51A,17517,L1
+LGE,L-52A,19690,L1
+LGE,mcaymanlm,18464,L1
+LGE,mh2lm,14478,L1
+LGE,tf10w,14510,L1
+LGE,timelm,16446,L1
+LGE,winglm,18469,L1
+Malata Mobile - Pegatron,axolotl,17601,L1
+Malata Mobile - Pegatron,UR5,16024,L1
+Medion,P1071X,18235,L1
+Meizu - Pegatron,meizu18,20546,L1
+Meizu - Pegatron,meizu18Pro,20012,L1
+Micromax,E6746,20671,L1
+Microsoft,Xbox One/S/X,19923,L3
+Microsoft,Xbox One/S/X,21807,L3
+Migu TV - Harman,MGV2002_HK,16326,L1
+Mitsubishi Electric Corporation,RA2000,14444,L1
+Motorola,blackjack,16472,L1
+Motorola,burton,17049,L1
+Motorola,doha,14554,L1
+Motorola,fiji,16377,L1
+Motorola,guam,18025,L1
+Motorola,kiev,18609,L1
+Motorola,malta,18905,L1
+Motorola,olson,13234,L1
+Motorola,quark,5730,L3
+Motorola,racer,17477,L1
+MTC TV,bangbae,13247,L1
+MTC TV,komagome,13246,L1
+MTC TV,sadang,13245,L1
+MTC TV,seocho,13243,L1
+MTC TV,sugamo,13242,L1
+MTC TV,tabata,13244,L1
+MXQ,C9,9727,L3
+MXQ,G9CX,10169,L1
+nan,bang,11792,L1
+Netflix,dev1,10092,L3
+netflix,dev1,6641,L3
+Netflix,NFPS5-001-,18349,L3
+Netflix,Refapp,15676,L3
+Nexstreaming,Android L3 In-App,14517,L3
+Nintendo,Switch,10128,L3
+Oculus,SantaCruz,8078,L1
+OnePlus,AC2001,20073,L1
+OnePlus,GM1905,21767,L1
+OnePlus,GM1915,21796,L1
+OnePlus,GM1917,21763,L1
+OnePlus,GM1920,21766,L1
+OnePlus,GM1925,21764,L1
+OnePlus,HD1900,21769,L1
+OnePlus,HD1907,21768,L1
+OnePlus,HD1910,21770,L1
+OnePlus,HD1925,21765,L1
+OnePlus,IN2015,18816,L1
+OnePlus,IN2017,18817,L1
+OnePlus,IN2019,18818,L1
+OnePlus,IN2025,18815,L1
+OnePlus,KB2000,19909,L1
+OnePlus,KB2007,19910,L1
+OnePlus,LE2110,21800,L1
+OnePlus,LE2117,21803,L1
+OnePlus,LE2119,21804,L1
+OnePlus,LE2120,21801,L1
+OnePlus,LE2127,21802,L1
+Oneplus,Nord,18054,L1
+Oneplus,OnePlus7T,15071,L1
+Oneplus,OnePlus7TPro,15072,L1
+Oneplus,OnePlus7TProNR,15798,L1
+Oneplus,OnePlus7TTMO,14955,L1
+Oneplus,OnePlus8,16652,L1
+Oneplus,OnePlus8Pro,16653,L1
+Oneplus,OnePlus8T,18914,L1
+Oneplus,OnePlus8TMO,16654,L1
+Oneplus,OnePlus8TTMO,18915,L1
+Oneplus,OnePlus8Visible,18594,L1
+Oneplus,OnePlus8VZW,16660,L1
+Oppo,A33w,18864,L1
+Oppo,OP4A57,14563,L1
+Oppo,OP4A77,17600,L1
+Oppo,OP4AB5,16978,L1
+Oppo,OP4B65L1,14963,L1
+Oppo,OP4B79L1,18121,L1
+Oppo,OP4B80L1,18122,L1
+Oppo,OP4B83L1,16378,L1
+Oppo,OP4B9EL1,17252,L1
+Oppo,OP4BA1L1,17101,L1
+Oppo,OP4BA2L1,18058,L1
+Oppo,OP4BAFL1,17502,L1
+Oppo,OP4BDCL1,17958,L1
+Oppo,OP4C2DL1,17268,L1
+Oppo,OP4C41L1,17269,L1
+Oppo,OP4C45L1,17947,L1
+Oppo,OP4C51L1,18368,L1
+Oppo,OP4C5FL1,17058,L1
+Oppo,OP4C72L1,17516,L1
+Oppo,OP4C77L1,17512,L1
+Oppo,OP4C7BL1,17507,L1
+Oppo,OP4C87L1,17948,L1
+Oppo,OP4E35,18972,L1
+Oppo,OP4E3F,20472,L1
+Oppo,OP4EFDL1,18560,L1
+Oppo,OP4F11L1,21002,L1
+Oppo,OP4F25L1,19673,L1
+Oppo,OP4F43L1,20628,L1
+Oppo,OP4F57L1,20488,L1
+OPPO,PDET10,21087,L1
+Oppo,R9,18937,L1
+Oppo,R9s,18932,L1
+Oppo,RE50C1,18800,L1
+Oppo,RMX1921,14523,L1
+Oppo,RMX1931CN,15049,L1
+Oppo,RMX1971,14642,L1
+Oppo,RMX1971L1,15927,L1
+Oppo,RMX1991CN,14898,L1
+Oppo,RMX2001L1,18587,L1
+Oppo,RMX2021,17503,L1
+Oppo,RMX2041,17397,L1
+Oppo,RMX2061L1,18485,L1
+Oppo,RMX2170L1,19599,L1
+Panasonic - Pegatron,JX700C,21782,L1
+Panasonic TV,Jupiter,17553,L1
+Panasonic,2020MT5813,15628,L1
+Panasonic,2021MT5816,18153,L1
+Panasonic,ES630/600/500,7064,L1
+Pegatron - Windriver,embt4,16053,L1
+Qualcomm,QCOM_SDM_PROD_00,18493,L1
+Quatius,MSD6488,7505,L1
+Ragentek - Windriver,CS20,19956,L1
+Razer TV,pearlyn,5859,L3
+Razer TV,pearlyn,5931,L3
+Razer TV,pearlyn,6010,L3
+Roku,2700,8083,L2
+Roku,2xxx,8254,L2
+Roku,3400,8354,L2
+Roku,3500,8253,L2
+Roku,3600,6765,L2
+Roku,3930x,13121,L1
+Roku,4200,6950,L2
+Roku,4200,8252,L2
+Roku,4800X,17555,L1
+Roku,6xxx,6692,L1
+Roku,AXXXX,11562,L1
+Roku,Camden 7,16998,L1
+Roku,CXXXX,10980,L1
+Roku,CXXXXC,15141,L1
+Roku,Roma,17679,L1
+Roku,x2400,8353,L2
+RokuTV,CXXXXD,13281,L1
+S905X3,UCA-BI60R,17761,L1
+Sagemcom TV,dciw384eus,8230,L1
+Sagemcom TV,diw362_1u1,9318,L1
+Sagemcom TV,diw387_1u1,14426,L1
+Sagemcom TV,dtiw384wb,7900,L1
+Samsung TV,c71kw200,7754,L1
+Samsung,21TV_BASIC1,20844,L1
+Samsung,21TV_BASIC1,21602,L1
+Samsung,21TV_PREMIUM1,20848,L1
+Samsung,21TV_PREMIUM1,21601,L1
+Samsung,21TV_PREMIUM2,20846,L1
+Samsung,21TV_PREMIUM2,21599,L1
+Samsung,21TV_PREMIUM3,20847,L1
+Samsung,21TV_PREMIUM3,21600,L1
+Samsung,21TV_STANDARD1,20845,L1
+Samsung,21TV_STANDARD1,21598,L1
+Samsung,a01q,15865,L1
+Samsung,a02q,19591,L1
+Samsung,a11q,16554,L1
+Samsung,a12u,21487,L1
+Samsung,a21,16705,L1
+Samsung,a32x,20817,L1
+Samsung,a42xq,19492,L1
+Samsung,a42xuq,21789,L1
+Samsung,a52xq,21110,L1
+Samsung,a5ulte,19970,L1
+Samsung,a82xq,21785,L1
+Samsung,ATSC,16693,L1
+Samsung,c1q,18404,L1
+Samsung,c1s,18615,L1
+Samsung,c2q,18446,L1
+Samsung,gta4l,18152,L1
+Samsung,gta4lwifi,18283,L1
+Samsung,hltexx,4149,L1
+Samsung,m01q,17667,L1
+Samsung,m11q,16906,L1
+Samsung,m12,20801,L1
+Samsung,o1q,19991,L1
+Samsung,p3s,20333,L1
+Samsung,r8q,18652,L1
+Samsung,r8s,19167,L1
+Samsung,TV,21230,L1
+Samsung,TV,21346,L1
+Samsung,z3q,16994,L1
+Sangfei - Pegatron,QX1000,15624,L1
+SDMC TV,DV6067Y,14357,L1
+SDMC TV,GMP,19480,L1
+SDMC TV,JFK,19556,L1
+SDMC TV,VTTV-SD4K-20,20405,L1
+SEN5,ST6B9x,11229,L1
+SHARP - Pegatron,VGO,14294,L1
+SHARP,Banagher,17584,L1
+SHARP,ebisu,13802,L1
+SHARP,ewha,16415,L1
+SHARP,gangnam,13901,L1
+SHARP,guro,15122,L1
+SHARP,jamsil,14169,L1
+SHARP,Jerid,18475,L1
+SHARP,meguro,14170,L1
+SHARP,OG6,17603,L1
+SHARP,OJ6,18323,L1
+SHARP,PCZ,14324,L1
+SHARP,PCZ-u,14325,L1
+SHARP,QDA,15320,L1
+SHARP,Sarah,19697,L1
+SHARP,SG901SH,14899,L1
+SHARP,SG906SH,15319,L1
+SHARP,SG907SH,14327,L1
+SHARP,SG908SH,16314,L1
+SHARP,SH-01M,15318,L1
+SHARP,SH-02M,14323,L1
+SHARP,SH-51A,16312,L1
+SHARP,SH-M12,14326,L1
+SHARP,SH-M13,15321,L1
+SHARP,SH-RM12,14322,L1
+SHARP,SH-Z20,15322,L1
+SHARP,sindang,14490,L1
+SHARP,tcme8sj,14760,L1
+SHARP,tcme8tsj,16512,L1
+SHARP,TGD,16919,L1
+SHARP,VG2,18660,L1
+SHARP,VIF,17220,L1
+Shenzhen KTC Technology Co.Ltd.,43C1,12831,L1
+Shenzhen KTC Technology Co.Ltd.,49B1U,12063,L1
+Shenzhen KTC technology Co.Ltd.,55C1,12832,L1
+Shenzhen SEI Robotics TV - Harman,B866_MTS_OTT,15040,L1
+Shenzhen SEI Robotics TV,fbx8am,15972,L1
+Shenzhen SEI Robotics TV,HND,19614,L1
+Shenzhen SEI Robotics TV,kunlun,11717,L1
+Shenzhen SEI Robotics TV,SEI140FT,18441,L1
+Shenzhen SEI Robotics TV,SEI400TV,16836,L1
+Shenzhen SEI Robotics TV,SEI500CB,18147,L1
+Shenzhen SEI Robotics TV,SEI500EV,17077,L1
+Shenzhen SEI Robotics TV,SEI500FPT,18166,L1
+Shenzhen SEI Robotics TV,SEI500L,16814,L1
+Shenzhen SEI Robotics TV,SEI500PTV,17731,L1
+Shenzhen SEI Robotics TV,SEI500W,17523,L1
+Shenzhen SEI Robotics TV,SEI600TID,18023,L1
+Skyth-tek - Windriver,La_Tab_292,18968,L1
+Skyworth TV,open_uhd_ap,8025,L1
+Skyworth TV,open_uhd_hk,8207,L1
+Skyworth TV,shimbashi,13884,L1
+Skyworth TV,shinagawa,13883,L1
+Skyworth TV,shinjuku,13885,L1
+Skyworth TV,SW3H_ATV,13105,L1
+Skyworth TV,SW4H,17781,L1
+Skyworth TV,SW4H_FF,18641,L1
+SKYWORTH,7M01B,7363,L1
+Skyworth,JMC20211,10197,L1
+SkyworthDigital TV,AirtelOTTBox,11190,L1
+SkyworthDigital TV,HP40A,17624,L1
+SkyworthDigital TV,HP40A1,15643,L1
+SkyworthDigital TV,HP42F,18211,L1
+SkyworthDigital TV,HY40A,17646,L1
+SkyworthDigital TV,HY40A1,15260,L1
+SkyworthDigital TV,HY40A2,14993,L1
+SkyworthDigital TV,HY44G,19576,L1
+SkyworthDigital TV,LAS,19959,L1
+SkyworthDigital TV,TrueHCH03,11193,L1
+SkyworthDigital TV,TrueHPH07,12744,L1
+Sony Ericsson,D6503,5575,L1
+Sony TV,BRAVIA_UR3,13956,L1
+Sony TV,BRAVIA_VH1,15255,L1
+Sony TV,BRAVIA_VH2,18409,L1
+Sony,ATSC,16691,L1
+Sony,BRAVIA_ATV2,6357,L1
+Sony,J9260,15567,L1
+Sony,PlayStation 4,19922,L3
+Sony,PlayStation 5,17744,L3
+Sony,XQ-AQ52,20179,L1
+Sony,XQ-AU52,22127,L1
+SonyVS,icx1293,13889,L1
+SonyVS,icx1295,14589,L1
+SPPL TV - Harman,LEDTV32HD,16374,L1
+SPPL TV - Harman,LEDTVUHD,17474,L1
+Sumitomo Electric TV,TT02,15652,L1
+Sumitomo Electric TV,XA401,12551,L1
+Superwave Group TV - Harman,SWG2001A,14883,L1
+Szdatamax,DM12S3,7680,L1
+TCL TV,BeyondTV4,16426,L1
+TCL TV,R2,14910,L1
+TCL,MS6586,7417,L1
+TCT Mobile Limited (Alcatel),860,19232,L1
+TCT Mobile Limited (Alcatel),Apollo_8_4G_TMO,18357,L1
+TCT Mobile Limited (Alcatel),Austin,19608,L1
+TCT Mobile Limited (Alcatel),Boston,17898,L1
+TCT Mobile Limited (Alcatel),Delhi_TF,20081,L1
+TCT Mobile Limited (Alcatel),Dubai_Plus_ATT,18016,L1
+TCT Mobile Limited (Alcatel),Dubai_VZW,18046,L1
+TCT Mobile Limited (Alcatel),Hong_Kong_Pro,20602,L1
+TCT Mobile Limited (Alcatel),Irvine,19323,L1
+TCT Mobile Limited (Alcatel),Miami_Pro,20700,L1
+TCT Mobile Limited (Alcatel),Ottawa,20244,L1
+TCT Mobile Limited (Alcatel),Porto,17719,L1
+TCT Mobile Limited (Alcatel),Richland,21740,L1
+TCT Mobile Limited (Alcatel),Richland_Pro,21742,L1
+TCT Mobile Limited (Alcatel),Seattle,17670,L1
+TCT Mobile Limited (Alcatel),Seattle_5G,18085,L1
+TCT Mobile Limited (Alcatel),Seattle_VZW,18223,L1
+TCT Mobile Limited (Alcatel),T1_L1,16570,L1
+TCT Mobile Limited (Alcatel),T1_LE,21865,L1
+TCT Mobile Limited (Alcatel),T1_LITE,16574,L1
+TCT Mobile Limited (Alcatel),T1_PRO,16208,L1
+TCT Mobile Limited (Alcatel),Thor_8_4G_VZW,18168,L1
+TCT Mobile Limited (Alcatel),VC92,18188,L1
+Technicolor TV,uiw4020cog,12484,L1
+Technicolor TV,uiw4020ebx,15246,L1
+Technicolor TV,uiw4020pxm,10501,L1
+Technicolor TV,uiw4020wow,13385,L1
+Technicolor TV,usw4026tat,10483,L1
+Technicolor TV,UZW4020BYT,9477,L1
+Technicolor TV,uzx4020nps,15245,L1
+Teleepoch - WindRiver,freedom_turbo_XL,17782,L1
+THALES,SVDU5N,16580,L1
+THALES,SVDU6X,18514,L1
+THALES,WMC,13938,L1
+Tinno,U705AA,16565,L1
+Tinno,U705AC,17133,L1
+Tmall,MagicBox_M20C,14960,L1
+Tmall,MagicBox_M21,18506,L1
+Tmall,MagicBox_M22,18194,L1
+Tmall,MagicProject_NEX_LITE,14961,L1
+Tmall,MagicProject_NEX_PRO,16908,L1
+Tmall,MagicProjector_M2,17548,L1
+Tonly,LinkView,8301,L1
+Toshiba,BM620X,7588,L1
+Toshiba,M520X,7589,L1
+Toshiba,X920,8098,L1
+Toshiba,Z720X,8141,L1
+Toshiba,Z820X,7868,L1
+TPVision TV,PH0M_EA_T32,18310,L1
+TPVision TV,PH7M_EU_5596,6787,L3
+TPVision TV,PH7M_EU_5596_renewed,20601,L1
+TPVision TV,PH9M_EA_5599,11025,L1
+TPVision TV,PH9M_EA_5599,21668,L1
+TPVision TV,philips_MT5593FHT_EU,20549,L1
+TPVision TV,takao,17682,L1
+Transsion,,18167,L1
+Transsion,TECNO-CE9,18021,L1
+Uniscope - FIH Foxconn,LPD-10W,18158,L1
+Uniscope - FIH Foxconn,LPD-11W,19422,L1
+Vanzo - FIH Foxconn,COVET_PRO_LITE,17514,L1
+Vestel TV,tokyo,16996,L1
+Vestel TV,yeoksam,14418,L1
+Vestel,MB7253,19855,L1
+Vestel,NT72671,13024,L1
+Videostrong - Harman,KM1,13438,L1
+Videostrong - Harman,PDB_F2,14233,L1
+VideoStrong,KM3,19003,L1
+Vinsmart TV,TR2001,15138,L1
+Vivant,Dinobot,7888,L3
+Vivo,2012,21817,L1
+Vivo,2037,21348,L1
+Vizio,COMMON_MTK 5583_2021,19036,L1
+Vizio,COMMON_MTK 5597_2018,7705,L1
+Vizio,COMMON_MTK 5691_2020,16247,L1
+Vizio,COMMON_MTK 5695_2020,16248,L1
+VODAFONE,GX-VF670EM,7848,L1
+Volvo Cars,ihu_abl_car,14537,L1
+VSmart,cassia,18386,L1
+VSmart,jacaranda,17715,L1
+VSmart,jacarandapro,18299,L1
+VSmart,juniper,18519,L1
+VSmart,rice,19392,L1
+VSmart,v350c,19301,L1
+VSmart,v350u,18619,L1
+VSmart,willowpro,17714,L1
+Widevine,KD-43X7000E,6997,L1
+Widevine,KDL-40W660F,7663,L1
+Widevine,Nexstreaming In-App L3 arm,6489,L3
+Widevine,Nexstreaming In-App L3 mips,6493,L3
+Wistron NeWeb Corp,c71kw400,7674,L1
+Xiaomi TV,angleeUHD,17628,L1
+Xiaomi TV,aquaman,16688,L1
+Xiaomi TV,croods,18298,L1
+Xiaomi TV,eva,12217,L1
+Xiaomi TV,machuca,13734,L1
+Xiaomi TV,magnolia,7695,L1
+Xiaomi TV,tarzan,18082,L1
+Xiaomi TV,volver,13735,L1
+Xiaomi,alioth,20474,L1
+Xiaomi,angelica,18007,L1
+Xiaomi,apollo,18288,L1
+Xiaomi,atom,17533,L1
+Xiaomi,begonia,14374,L1
+Xiaomi,begoniain,14674,L1
+Xiaomi,beryllium,8224,L3
+Xiaomi,bomb,17768,L1
+Xiaomi,cannon,18325,L1
+Xiaomi,cas,18287,L1
+Xiaomi,cezanne,18248,L1
+Xiaomi,citrus,19520,L1
+Xiaomi,cmi,16307,L1
+Xiaomi,curtana,17046,L1
+Xiaomi,dandelion,17921,L1
+Xiaomi,excalibur,17171,L1
+Xiaomi,galahad,17687,L1
+Xiaomi,gauguin,18380,L1
+Xiaomi,gauguininpro,19531,L1
+Xiaomi,gauguinpro,18536,L1
+Xiaomi,ginkgo,14292,L1
+Xiaomi,gram,17741,L1
+Xiaomi,haydn,20291,L1
+Xiaomi,joyeuse,17631,L1
+Xiaomi,karna,18435,L1
+Xiaomi,lancelot,17685,L1
+Xiaomi,laurel_sprout,14692,L1
+Xiaomi,lemon,20457,L1
+Xiaomi,lime,19515,L1
+Xiaomi,lmi,16323,L1
+Xiaomi,lmiin,17214,L1
+Xiaomi,lmiinpro,17219,L1
+Xiaomi,lmipro,17221,L1
+Xiaomi,merlin,17239,L1
+Xiaomi,merlinnfc,17643,L1
+Xiaomi,monet,17244,L1
+Xiaomi,phoenix,15737,L1
+Xiaomi,phoenixin,15772,L1
+Xiaomi,picasso,16344,L1
+Xiaomi,raphaelin,14676,L1
+Xiaomi,renoir,20349,L1
+Xiaomi,shiva,18067,L1
+Xiaomi,sunny,20503,L1
+Xiaomi,surya,18437,L1
+Xiaomi,sweet,20292,L1
+Xiaomi,sweetin,20313,L1
+Xiaomi,thyme,20790,L1
+Xiaomi,toco,17382,L1
+Xiaomi,tucana,15098,L1
+Xiaomi,umi,16308,L1
+Xiaomi,vangogh,17560,L1
+Xiaomi,venus,19125,L1
+Xiaomi,willow,14956,L1
+Yandex Services AG,YNDX-0008,18367,L1
+ZIDOO,ZIDOO_Z9X,17893,L1
+ZTE TV - Harman,B820C-A15_ZTE,16333,L1
+ZTE TV - Harman,B826C-A12_ZTE,16364,L1
+ZTE TV - Harman,B866_MTS_IPTV,16383,L1
+ZTE TV - Harman,B866_ZTE,18066,L1
+ZTE TV - Harman,B866V2_ZTE,17614,L1
+ZTE TV - Harman,O2TV_B866V2,20638,L1
+ZTE TV - Harman,UPT24K,21551,L1
+ZTE,B760HS3,13681,L1
+ZTE,Neva_jet,14159,L1
+ZTE,NX651J,17172,L1
+ZTE,NX659J,17173,L1
+ZTE,NX669J,20025,L1
+ZTE,P725A02,18201,L1
+ZTE,P725A11,17780,L1
+ZTE,P725A12,16898,L1
+ZTE,P855A03,14119,L1
+ZTE,P855A03_NA,14592,L1
+ZTE,P865A02,16490,L1
+ZTE,Z6750K,18215,L1
+ZTE,Z7750R,17778,L1
+ZTE,Z8850K,14348,L1
+ZTE,Z8851S,16699,L1

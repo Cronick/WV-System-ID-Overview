@@ -228,6 +228,10 @@ Google,CrOS-7,20649,L1
 Google,CrOS-8,20665,L1
 Google,CrOS-9,20645,L1
 Google,flame,13676,L1
+Google,L3-generic-pi-arm,22566,L3
+Google,L3-generic-pi-arm64,22567,L3
+Google,L3-generic-pi-x86,22568,L3
+Google,L3-generic-pi-x86_64,22569,L3
 Google,L3-generic-rvc-arm,22589,L3
 Google,L3-generic-rvc-arm64,22590,L3
 Google,L3-generic-rvc-x86,22591,L3

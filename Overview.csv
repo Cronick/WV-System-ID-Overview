@@ -78,6 +78,7 @@ Amazon,TronaPlusS-Prod,19530,L1
 Amazon,TronaS-Prod,19528,L1
 Amazon,Vesta-Prod,18043,L1
 Amazon,Windows,13063,L3
+Amazon,Windows,14248,L3
 Amazon,Windows,8891,L3
 Amazon,Winston-Prod,18444,L1
 Aminocom TV,Amigo7x,15799,L1
@@ -141,6 +142,16 @@ Daimler,NTG7,16285,L3
 Datalogic - Pegatron,sx5,18070,L1
 Datalogic - Windriver,Q10A,21784,L1
 DMT TV,DMTS18SS,9608,L1
+Elbo,F1,7842,L1
+Elebao,A95XPRO,8542,L1
+Elebao,AMTV,8972,L1
+Elebao,ATVHub,8969,L1
+Elebao,ATVPro,8970,L1
+Elebao,GTV01,8968,L1
+Elebao,HTV,8973,L1
+Elebao,RKTV,8971,L1
+Elebao,STV,8974,L1
+Elebao,SUPER TV 001,9249,L1
 Elink - WindRiver,G10,17545,L1
 Elink - WindRiver,WS107,17831,L1
 Enseo,HD3300UHD,15942,L1
@@ -150,9 +161,11 @@ EXPRESS LUCK TECHNOLOGY LIMITED TV,yeongdeungpo,14915,L1
 EXPRESS LUCK,43F2,15897,L1
 Facebook,Portal TV,13354,L1
 Facebook,Portal/Portal Mini,13985,L1
+FengSui,MXCA6H,7911,L1
 FERGUSON,FERGUSON-FBOX,7857,L3
 Fonsview,FV600,20158,L1
 FORMULER,Formuler Z8,17718,L1
+Foxconn International Holdings Limited,g01i,5645,L1
 Foxconn International Holdings Limited,g03k,5650,L3
 Foxconn International Holdings Limited,MC2_CN,5893,L3
 Foxconn TV,BFX-AT100,13292,L1
@@ -196,19 +209,32 @@ Google,blueline,8522,L1
 Google,bonito,17606,L1
 Google,bramble,17650,L1
 Google,CDM_Test_PROV2,7912,L1
+Google,ChromeCDM-ChromeOS-ARM,4166,L3
 Google,ChromeCDM-ChromeOS-ARM-5,20298,L3
+Google,ChromeCDM-ChromeOS-x86,4181,L3
+Google,ChromeCDM-CrOS,7331,L3
+Google,ChromeCDM-CrOS,7332,L3
+Google,ChromeCDM-CrOS,7646,L3
+Google,ChromeCDM-CrOS,7647,L3
+Google,ChromeCDM-CrOS,9568,L3
+Google,ChromeCDM-CrOS,9569,L3
 Google,ChromeCDM-CrOS-5,20294,L3
 Google,ChromeCDM-CrOS-ARM-4,20059,L3
 Google,ChromeCDM-CrOS-ARM-6,21204,L3
 Google,ChromeCDM-CrOS-x86-4,20058,L3
 Google,ChromeCDM-CrOS-x86-6,21203,L3
+Google,ChromeCDM-Linux,7328,L3
 Google,ChromeCDM-Linux,7648,L3
+Google,ChromeCDM-Linux,9567,L3
 Google,ChromeCDM-Linux-6,21202,L3
 Google,ChromeCDM-Linux-x64-4,20121,L3
 Google,ChromeCDM-Linux-x64-7,21884,L3
 Google,ChromeCDM-Linux-x86,4183,L3
 Google,ChromeCDM-Linux-x86-4,20060,L3
 Google,ChromeCDM-Linux-x86-5,20297,L3
+Google,ChromeCDM-Mac,7329,L3
+Google,ChromeCDM-Mac,7649,L3
+Google,ChromeCDM-Mac,9566,L3
 Google,ChromeCDM-Mac-6,21201,L3
 Google,ChromeCDM-Mac-ARM-4,20034,L3
 Google,ChromeCDM-Mac-x64-4,20056,L3
@@ -218,7 +244,9 @@ Google,ChromeCDM-Win-x64-7,21889,L3
 Google,ChromeCDM-Win-x86-4,20057,L3
 Google,ChromeCDM-Win-x86-5,20295,L3
 Google,ChromeCDM-Win-x86-7,21890,L3
+Google,ChromeCDM-Windows,7330,L3
 Google,ChromeCDM-Windows,7650,L3
+Google,ChromeCDM-Windows,9565,L3
 Google,ChromeCDM-Windows-2,13701,L3
 Google,ChromeCDM-Windows-6,21200,L3
 Google,ChromeCDM-Windows-x64-4,20122,L3
@@ -237,6 +265,8 @@ Google,CrOS-7,20649,L1
 Google,CrOS-8,20665,L1
 Google,CrOS-9,20645,L1
 Google,flame,13676,L1
+GOOGLE,GOOGLE_CHROMEBOOK_ALCATRAZCDM_2012,274,L1
+GOOGLE,GOOGLE_CHROMEBOOK_LUCAS_2012,279,L1
 Google,L3-generic-pi-arm,22566,L3
 Google,L3-generic-pi-arm64,22567,L3
 Google,L3-generic-pi-x86,22568,L3
@@ -258,6 +288,7 @@ Haier TV,hanyang,13392,L1
 Haier TV,hongik,13765,L1
 Haier TV,nippori,13764,L1
 Haier TV,uguisudani,13770,L1
+Haier,YKTV_19,13881,L1
 HiMedia TV,A151,17209,L1
 HiMedia TV,A155,17210,L1
 HiMedia TV,YS-CK0001,16926,L1
@@ -457,6 +488,7 @@ MTC TV,sugamo,13242,L1
 MTC TV,tabata,13244,L1
 MXQ,C9,9727,L3
 MXQ,G9CX,10169,L1
+MXQ,MXQ,9499,L1
 nan,bang,11792,L1
 Netflix,dev1,10092,L3
 netflix,dev1,6641,L3
@@ -464,6 +496,8 @@ Netflix,NFPS5-001-,18349,L3
 Netflix,Refapp,15676,L3
 Nexstreaming,Android L3 In-App,14517,L3
 Nintendo,Switch,10128,L3
+NVidia,darcy,6563,L3
+NVidia,darcy_2019_renew,15895,L1
 Oculus,SantaCruz,8078,L1
 OnePlus,AC2001,20073,L1
 OnePlus,GM1905,21767,L1
@@ -553,6 +587,10 @@ Ragentek - Windriver,CS20,19956,L1
 Razer TV,pearlyn,5859,L3
 Razer TV,pearlyn,5931,L3
 Razer TV,pearlyn,6010,L3
+RockTek,Q10pro,7032,L1
+RockTek,RT_A2V,7013,L1
+RockTek,S912test,7027,L1
+RockTek,Test,7350,L1
 Roku,2700,8083,L2
 Roku,2xxx,8254,L2
 Roku,3400,8354,L2
@@ -709,6 +747,9 @@ SPPL TV - Harman,LEDTV32HD,16374,L1
 SPPL TV - Harman,LEDTVUHD,17474,L1
 Sumitomo Electric TV,TT02,15652,L1
 Sumitomo Electric TV,XA401,12551,L1
+Sunchip,A3,7625,L1
+SunChip,RT_A2V,7409,L1
+SunChip,RT_A3,7473,L1
 Superwave Group TV - Harman,SWG2001A,14883,L1
 Szdatamax,DM12S3,7680,L1
 TCL TV,BeyondTV4,16426,L1
@@ -791,6 +832,55 @@ Vizio,COMMON_MTK 5691_2020,16247,L1
 Vizio,COMMON_MTK 5695_2020,16248,L1
 VODAFONE,GX-VF670EM,7848,L1
 Volvo Cars,ihu_abl_car,14537,L1
+VS,B95L1,11223,L1
+VS,B95W,10858,L1
+VS,B95W1,11151,L1
+VS,B95W2,12066,L1
+VS,B96 PLUS,10379,L1
+VS,B96 PRO,10381,L1
+VS,B96L,10238,L1
+VS,B96W,10254,L1
+VS,B96X,10181,L1
+VS,B97 PL,10382,L1
+VS,B97L,10393,L1
+VS,B97W,10236,L1
+VS,B98W,10434,L1
+VS,BB2 PRO,7653,L1
+VS,BB2,7610,L1
+VS,BXB PRO,10342,L1
+VS,K1 PL,10859,L1
+VS,K1+,11492,L1
+VS,K1P,10851,L1
+VS,K2 PRO,12029,L1
+VS,K2P,11491,L1
+VS,K3 PRO,10380,L1
+VS,K3S1,10239,L1
+VS,KB2 PRO,7655,L1
+VS,KI PLUS,7859,L1
+VS,KI PRO,7487,L1
+VS,KII PRO,7872,L1
+VS,KIII PRO,7510,L1
+VS,KIPLUS,11489,L1
+VS,KM8 PRO,7675,L1
+VS,KM8P,7613,L1
+VS,KM9,11523,L1
+VS,M8S PLUS DVB,9602,L1
+VS,M8S PLUS L,9531,L1
+VS,M8S PLUS W,8602,L1
+VS,M8S PRO L,7784,L1
+VS,M8S PRO W,7772,L1
+VS,M8S PRO+,7582,L1
+VS,M8S PRO,7624,L1
+VS,M8S+,7815,L1
+VS,SM8 W,10165,L1
+VS,SM8+,10166,L1
+VS,T8 +,10310,L1
+VS,T8 L,10250,L1
+VS,T8 W,10276,L1
+VS,T8P +,10336,L1
+VS,T8PRO,10335,L1
+VS,TVB-100B,7476,L1
+VS,TX8 W,10340,L1
 VSmart,cassia,18386,L1
 VSmart,jacaranda,17715,L1
 VSmart,jacarandapro,18299,L1

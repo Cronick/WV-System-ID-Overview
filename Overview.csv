@@ -236,6 +236,10 @@ Google,L3-generic-rvc-arm,22589,L3
 Google,L3-generic-rvc-arm64,22590,L3
 Google,L3-generic-rvc-x86,22591,L3
 Google,L3-generic-rvc-x86_64,22592,L3
+Google,L3-generic-s-arm,22593,L3
+Google,L3-generic-s-arm64,22594,L3
+Google,L3-generic-s-x86,22595,L3
+Google,L3-generic-s-x86_64,22596,L3
 Google,Newman,10279,L1
 Google,redfin,17660,L1
 Google,Reference Device,4121,L3

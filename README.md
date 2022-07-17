@@ -5,4 +5,5 @@ A simple overview of known Widevine devices with System IDs.
 Pull requests are welcome, so feel free to add information about unknown devices to the overview.
 
 ## Credits
-Thanks to Widevine Revocation Tracker for most of the available information.
+- Thank you to Widevine Revocation Tracker for the first available information.
+- Thank you to Anonymous source for providing a device overview from DCSL v2
